@@ -13,13 +13,13 @@ Our official website [ketivee.com](https://ketivee.com) is under active developm
 
 ### 📋 Quick Links
 - [Contribution Guidelines](CONTRIBUTING.md)
-- [Project Documentation](docs/)
+- [Project Documentation](https://docs.ketivee.com)
 - [Open Issues](https://github.com/ketivee-org/ketivee-donation/issues)
 - [Good First Issues](https://github.com/ketivee-org/ketivee-donation/issues?q=is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22)
 
 ## 📞 Contact
 - [Discord](https://discord.gg/ketivee)
-- [Twitter](https://twitter.com/ketivee)
+- [Twitter](https://twitter.com/ketiveeai)
 - Email: contact@ketivee.org
 
 ## 🔍 Our Projects
