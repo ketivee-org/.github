@@ -34,6 +34,7 @@ Our official website **[ketivee.com](https://ketivee.com)** is under active deve
 |---------|-------------|--------|  
 | [ketivee-donation](https://github.com/ketivee-org/ketivee-donation) | A donation management system | ![Active](https://img.shields.io/badge/status-active-brightgreen) |  
 | ketivee-website | Our official website | ![In Development](https://img.shields.io/badge/status-in%20development-yellow) |  
+ [ketivee-donation](httpd://docs.ketivee.com) | docs of ketivee| ![Active](https://img.shields.io/badge/status-active-brightgreen) | 
 
 ---
 
