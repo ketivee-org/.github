@@ -39,8 +39,8 @@ Our official website **[ketivee.com](https://ketivee.com)** is under active deve
 
 ## 💬 Stay Connected  
 
-🔹 **[Discord](https://discord.gg/ketivee) – Join the conversation!**  
-🐦 **[Twitter / X](https://x.com/ketiveeindia) – Follow us for updates!**  
+🔹 **[Discord](https://discord.gg/PCwcr82T) – Join the conversation!**  
+🐦 **[Twitter / X](https://x.com/KetiveeAI) – Follow us for updates!**  
 📷 **[Instagram](https://instagram.com/ketiveeai) – Check out our latest work!**  
 📺 **[YouTube](https://youtube.com/@ketivee) – Watch our progress!**  
 📘 **[Facebook](https://facebook.com/ketiveeai) – Connect with us!**  
